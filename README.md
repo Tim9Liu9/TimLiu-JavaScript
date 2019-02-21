@@ -8,6 +8,7 @@ JavaScript库学习收集QQ群: 331409824  欢迎入群(入群答案：TimLiu-Ja
 - [js框架](#js框架)
 - [UI](#UI)
 - [UI资源](#UI资源)
+- [js动画](#js动画)
 - [区块链](#区块链)
 - [开发资源](#开发资源)
     - [他人开源总结](#他人开源总结)
@@ -28,6 +29,10 @@ JavaScript库学习收集QQ群: 331409824  欢迎入群(入群答案：TimLiu-Ja
 ========  
 #### UI资源  
 
+
+========  
+#### js动画
+ * [anime.js](https://github.com/juliangarnier/anime) - 一个 JavaScript 动画引擎，具有简单而强大的API。它可以处理 CSS 属性、SVG、DOM 属性和 JavaScript 对象。
 
 ========  
 #### 区块链  
