@@ -9,6 +9,7 @@ JavaScript库学习收集QQ群: 331409824  欢迎入群(入群答案：TimLiu-Ja
 - [UI](#UI)
 - [UI资源](#UI资源)
 - [js动画](#js动画)
+- [其他库](#其他库)
 - [测试](#测试)
 - [区块链](#区块链)  
 - [完整项目](#完整项目)  
@@ -37,6 +38,10 @@ JavaScript库学习收集QQ群: 331409824  欢迎入群(入群答案：TimLiu-Ja
 ========  
 #### js动画
  * [anime.js](https://github.com/juliangarnier/anime) - 一个 JavaScript 动画引擎，具有简单而强大的API。它可以处理 CSS 属性、SVG、DOM 属性和 JavaScript 对象。
+
+========  
+#### 其他库
+ * [fx](https://github.com/antonmedv/fx) - 用node.js实现的命令行工具和终端json查看器。
 
 ========  
 #### 测试
