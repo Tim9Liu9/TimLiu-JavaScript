@@ -30,6 +30,7 @@ JavaScript库学习收集QQ群: 331409824  欢迎入群(入群答案：TimLiu-Ja
  * [uppy](https://github.com/transloadit/uppy) - Uppy 是一款时尚的模块化 JavaScript 文件上传器，可与任何应用程序无缝集成。它快速，易于使用，让您担心比构建文件上传器更重要的问题。
  * [flutter-go](https://github.com/alibaba/flutter-go) - flutter 开发者帮助 APP，包含 flutter 常用 140+ 组件的demo 演示与中文文档。
  * [Dragact](https://github.com/Foveluy/Dragact) - Dragact 是一款 React 组件，他能够使你简单、快速的构建出一款强大的 拖拽式网格(grid)布局。
+ * [react-native-elements](https://github.com/react-native-training/react-native-elements) -  对lottie这个非常轻量级同时又支持多平台的动画库的RN版本。
 
 ========  
 #### UI资源  
