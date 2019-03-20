@@ -34,6 +34,7 @@ JavaScript库学习收集QQ群: 331409824  欢迎入群(入群答案：TimLiu-Ja
  * [react-native-elements](https://github.com/react-native-training/react-native-elements) -  对lottie这个非常轻量级同时又支持多平台的动画库的RN版本。
  * [react-native-vector-icons](https://github.com/oblador/react-native-vector-icons) - 一个提供矢量图标的 UI 库，包含超过 3 千种图标供选择，不但易于使用而且支持自定义，是最佳的图标库。
  * [bootstrap](https://github.com/twbs/bootstrap) - twitter开源的前端开发框架，是目前最受欢迎的前端框架，其功能全面，文档直观简洁，容易上手，能够快速开发出适配各种设备、各种项目的网站。
+ * [Taro](https://github.com/NervJS/taro) - 多端统一开发框架，支持用 React 的开发方式编写一次代码，生成能运行在微信/百度/支付宝/字节跳动小程序、H5、React Native 等的应用。
 
 ========  
 #### UI资源  
