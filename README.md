@@ -48,6 +48,7 @@ JavaScript库学习收集QQ群: 331409824  欢迎入群(入群答案：TimLiu-Ja
 #### 网络
  * [baiduyun](https://github.com/syhyz1990/baiduyun) - 油猴脚本 直接下载百度网盘和百度网盘分享的文件,直链下载超级加速。
  * [axios](https://github.com/axios/axios) - 利用Promise为浏览器和Node.js编写的HTTP客户端。
+ * [send](https://github.com/mozilla/send) - Firefox 开源的文件「下载即焚」服务,允许你以加密的方式和他人共享文件。文件会在过期或第一次被下载之后彻底删除。
 
 ========  
 #### 其他库
