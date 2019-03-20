@@ -45,6 +45,7 @@ JavaScript库学习收集QQ群: 331409824  欢迎入群(入群答案：TimLiu-Ja
 ========  
 #### 网络
  * [baiduyun](https://github.com/syhyz1990/baiduyun) - 油猴脚本 直接下载百度网盘和百度网盘分享的文件,直链下载超级加速。
+ * [axios](https://github.com/axios/axios) - 利用Promise为浏览器和Node.js编写的HTTP客户端。
 
 ========  
 #### 其他库
