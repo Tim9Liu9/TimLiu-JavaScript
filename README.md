@@ -9,7 +9,7 @@ JavaScript库学习收集QQ群: 331409824  欢迎入群(入群答案：TimLiu-Ja
 - [UI](#UI)
 - [UI资源](#UI资源)
 - [js动画](#js动画)
-- [网络](#网络)
+- [网络与爬虫](#网络与爬虫)
 - [其他库](#其他库)
 - [测试](#测试)
 - [区块链](#区块链)  
@@ -46,10 +46,11 @@ JavaScript库学习收集QQ群: 331409824  欢迎入群(入群答案：TimLiu-Ja
  * [anime.js](https://github.com/juliangarnier/anime) - 一个 JavaScript 动画引擎，具有简单而强大的API。它可以处理 CSS 属性、SVG、DOM 属性和 JavaScript 对象。
  
 ========  
-#### 网络
+#### 网络与爬虫
  * [baiduyun](https://github.com/syhyz1990/baiduyun) - 油猴脚本 直接下载百度网盘和百度网盘分享的文件,直链下载超级加速。
  * [axios](https://github.com/axios/axios) - 利用Promise为浏览器和Node.js编写的HTTP客户端。
  * [send](https://github.com/mozilla/send) - Firefox 开源的文件「下载即焚」服务,允许你以加密的方式和他人共享文件。文件会在过期或第一次被下载之后彻底删除。
+ * [puppeteer](https://github.com/GoogleChrome/puppeteer) - Google 官方出品的 headless Chrome node 库，提供了一系列的 API，可以在无 UI 的情况下调用 Chrome 的各种功能，适用于爬虫、自动化处理等各种情景。
 
 ========  
 #### 其他库
