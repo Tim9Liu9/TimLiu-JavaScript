@@ -44,7 +44,9 @@ JavaScript库学习收集QQ群: 331409824  欢迎入群(入群答案：TimLiu-Ja
 ========  
 #### js动画
  * [anime.js](https://github.com/juliangarnier/anime) - 一个 JavaScript 动画引擎，具有简单而强大的API。它可以处理 CSS 属性、SVG、DOM 属性和 JavaScript 对象。
+ * [instagram.css](https://github.com/picturepan2/instagram.css) - 一个使用纯 CSS 实现 Instagram 滤镜效果类库。
  
+
 ========  
 #### 网络与爬虫
  * [baiduyun](https://github.com/syhyz1990/baiduyun) - 油猴脚本 直接下载百度网盘和百度网盘分享的文件,直链下载超级加速。
