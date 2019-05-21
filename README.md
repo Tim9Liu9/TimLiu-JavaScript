@@ -59,6 +59,7 @@ JavaScript库学习收集QQ群: 331409824  欢迎入群(入群答案：TimLiu-Ja
 #### 其他库
  * [fx](https://github.com/antonmedv/fx) - 用node.js实现的命令行工具和终端json查看器。
  * [LunarCalendar](https://github.com/zzyss86/LunarCalendar) - 农历（阴历）万年历，是一款支持Node.js和浏览器端使用的全功能农历和公历日历类库。支持农历与公历之间相互转换，含有二十四节气，天干地支纪年纪月纪日，生肖属相，公历节假日及农历传统节假日信息等功能。自带2013-2014节假日安排数据，并可自行配置。带有黄历数据，可自行选择配置。支持1891-2100年。
+ * [Grade.js](https://github.com/benhowdle89/grade) - 主要功能是从图片中提取两种主色，并生成互补渐变的背景。
 
 ========  
 #### 测试
