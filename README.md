@@ -37,6 +37,7 @@ JavaScript库学习收集QQ群: 331409824  欢迎入群(入群答案：TimLiu-Ja
  * [Taro](https://github.com/NervJS/taro) - 多端统一开发框架，支持用 React 的开发方式编写一次代码，生成能运行在微信/百度/支付宝/字节跳动小程序、H5、React Native 等的应用。
  * [wechat-format](https://github.com/lyricat/wechat-format) - 微信公众号排版编辑器，转换 Markdown 到微信特制的 HTML。
  * [PreVue](https://github.com/teamprevue/PreVue) - PreVue是一个适用于Vue开发人员的一体化原型工具，支持从组件体系结构到代码导出。
+ * [lit-html](https://github.com/Polymer/lit-html) - 一个极其简单的网页模板库，使用 ES6 语法，一共只有两个方法。
  
 ========  
 #### UI资源  
