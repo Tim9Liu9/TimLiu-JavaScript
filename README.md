@@ -2,7 +2,7 @@ TimLiu-JavaScript
 ==============
 
 自己总结的JavaScript开源项目及库。 github排名 [https://github.com/trending](https://github.com/trending),github搜索：[https://github.com/search](https://github.com/search)           
-JavaScript库学习收集QQ群: 331409824  欢迎入群(入群答案：TimLiu-JavaScript)。
+JavaScript库学习收集QQ群: 796795058  欢迎入群(入群答案：TimLiu-JavaScript)。
 
 ###  目录  
 - [js框架](#js框架)
