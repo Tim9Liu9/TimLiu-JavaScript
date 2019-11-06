@@ -40,6 +40,7 @@ JavaScript库学习收集QQ群: 796795058  欢迎入群(入群答案：TimLiu-Ja
  * [lit-html](https://github.com/Polymer/lit-html) - 一个极其简单的网页模板库，使用 ES6 语法，一共只有两个方法。
  * [vue-element-admin](https://github.com/PanJiaChen/vue-element-admin) - vue-element-admin 是一个后台前端解决方案，它基于 vue 和 element-ui实现。它使用了最新的前端技术栈，内置了 i18n 国际化解决方案，动态路由，权限验证，提炼了典型的业务模型，提供了丰富的功能组件，它可以帮助你快速搭建企业级中后台产品原型。
  * [GitDataV](https://github.com/HongqingCao/GitDataV) - 基于Vue框架构建的github数据可视化平台 https://hongqingcao.github.io/GitDataV/ 。
+ * [lin-cms-vue](https://github.com/TaleLin/lin-cms-vue) - Lin-CMS 是林间有风团队经过大量项目实践所提炼出的一套内容管理系统框架,可以有效的帮助开发者提高 CMS 的开发效率。
 
 ========  
 #### UI资源  
